@@ -1,0 +1,27 @@
+# ANNIE: Asistente Virtual para Niños con Discapacidad
+ANNIE es un proyecto de tecnología asistiva que busca mejorar la calidad de vida de niños con discapacidad. El objetivo principal es brindar una herramient que permita a los niños interactuar con un asistente virtual que los ayude en sus necesidades y les brinde apoyo emocional.
+
+## Contenido del Proyecto
+
+El proyecto ANNIE se compone de varias secciones:
+
+*   Interfaz de usuario: Se encarga de brindar una interfaz de usuario amigable y accesible para los niños.
+*   Asistente virtual: Es el núcleo del proyecto, se encarga de brindar apoyo emocional a los niños.
+*   API de AccuWeather: Se utiliza para obtener información del clima y brindar recomendaciones a los niños.
+*   API de Speechify: Se utiliza para convertir texto a voz y brindar una experiencia auditiva personalizada.
+
+## Cómo funciona
+
+El asistente virtual ANNIE utiliza un algoritmo de procesamiento de lenguaje natural para entender las necesidades de los niños y brindarles una respuesta adecuada. El asistente virtual se comunica con las API de AccuWeather y Speechify para obtener información del clima y convertir texto a voz.
+
+## Cómo contribuir
+
+Puedes contribuir al proyecto ANNIE de varias maneras:
+
+*   Reportando bugs: Si encuentras un bug, por favor, no dudes en reportarlo.
+*   Proponiendo nuevas características: Si tienes una idea para una nueva característica, no dudes en compartirla.
+*   Ayudando con la documentación: Puedes ayudar a mejorar la documentación del proyecto.
+
+## Licencia
+
+Este proyecto utiliza la licencia MIT. Puedes leer el archivo LICENSE para obtener más información.
